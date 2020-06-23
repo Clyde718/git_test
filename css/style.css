@@ -2,3 +2,9 @@ body {
   background-color: green;
   /* opacity: 0.1; */
 }
+p {
+  color: gold;
+}
+h2 {
+  font-size: 50px;
+}
